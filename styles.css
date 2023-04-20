@@ -1,0 +1,3 @@
+.media-icons{
+	display:flex;
+}
