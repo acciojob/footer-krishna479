@@ -6,7 +6,8 @@
 
 }
 
-.media-icons>span{
+.media-icons{
+	dispaly:flex;
 	position:fixed;
 	right:150px;
 
