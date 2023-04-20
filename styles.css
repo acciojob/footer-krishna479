@@ -1,3 +1,14 @@
-.media-icons{
+.top{
 	display:flex;
 }
+
+.media-icons{
+	position:fixed;
+	right:50px;
+}
+
+.link-boxes{
+display:flex;
+}
+
+
