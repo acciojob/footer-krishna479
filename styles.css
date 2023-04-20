@@ -1,7 +1,41 @@
 /* your code here */
 
-.media-icons > span{
-	right:20px;
+
+.top {
+	display:flex;
+
+}
+
+.media-icons>span{
+	position:fixed;
+	right:150px;
+
+}
+
+.bottom-details{
+	display: flex;
+}
+.link-boxes{
+	display:flex;
 	
+}
+.link-boxes>div{
+	margin-right:200px;
+	margin-bottom:10px;
 	
+}
+
+.bottom-details{
+	display:flex;
+	
+}
+.bottom-details>a{
+	position:fixed;
+	right:50px;
+}
+
+
+.content,.bottom-details{
+	background-color:black;
+	color:white;
 }
